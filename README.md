@@ -3,6 +3,12 @@
 
 <br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinholz36&count_private=true&theme=nord)
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinholz36&layout=compact&theme=nord)
+
 ### 🔭 I love working with:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
@@ -29,11 +35,6 @@
   &nbsp;
 </p>
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinholz36&show_icons=true&theme=nord)](https://github.com/reinholz36/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinholz36&layout=compact&theme=nord)](https://github.com/reinholz36/)
--->
 <!--
 **reinholz36/reinholz36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
