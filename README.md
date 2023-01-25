@@ -35,7 +35,6 @@
   &nbsp;
 </p>
 
-<br />
 
 ### 📫 How to reach me:
 <p>
