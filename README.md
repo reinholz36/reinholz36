@@ -13,9 +13,9 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
   &nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue-logo" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
   &nbsp;
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5-logo" />
   &nbsp;
@@ -23,15 +23,19 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap-logo" />
   &nbsp;
-  <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" alt="jest-logo" />
-  &nbsp;
-  <img src="https://raster.shields.io/badge/Bash-4040DD?logo=Shell&logoColor=white&style=for-the-badge" alt="bash-logo" />
-  &nbsp;
   <img src="https://raster.shields.io/badge/ExpressJS-782278?logo=express&logoColor=white&style=for-the-badge" alt="expressjs-logo" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql-logo" />
   &nbsp;
   <img src="https://raster.shields.io/badge/MongoDB-119911?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb-logo" />
   &nbsp;
+  <img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" alt="mocha-logo" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" alt="jest-logo" />
+  &nbsp;
   <img src="https://raster.shields.io/badge/Git-DD8855?logo=git&logoColor=white&style=for-the-badge" alt="git-logo" />
+  &nbsp;
+  <img src="https://raster.shields.io/badge/Bash-4040DD?logo=Shell&logoColor=white&style=for-the-badge" alt="bash-logo" />
   &nbsp;
 </p>
 
