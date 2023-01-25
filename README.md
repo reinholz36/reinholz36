@@ -38,7 +38,7 @@
 
 ### 📫 How to reach me:
 <p>
-  <a href="https://reinholz36.github.io/Portfolio/">
+  <a href="https://www.linkedin.com/in/lydiariverwood/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
   </a>
 </p>
