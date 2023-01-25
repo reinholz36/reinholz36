@@ -38,8 +38,12 @@
 
 ### 📫 How to reach me:
 <p>
-  <a href="https://www.linkedin.com/in/lydiariverwood/">
+  <a href="https://www.linkedin.com/in/lydiariverwood/" title="Go to Lydia Riverwood's Linkedin profile" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
+  </a>
+  &nbsp;
+  <a href="mailto:lydia.riverwood@gmail.com" title="Go to email Lydia Riverwood's Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-logo"/>
   </a>
 </p>
 <!--
