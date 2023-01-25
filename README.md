@@ -35,6 +35,14 @@
   &nbsp;
 </p>
 
+<br />
+
+### 📫 How to reach me:
+<p>
+  <a href="https://reinholz36.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
+  </a>
+</p>
 <!--
 **reinholz36/reinholz36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
