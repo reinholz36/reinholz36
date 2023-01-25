@@ -1,9 +1,10 @@
 <h1 align="center"> 👋 &nbsp; Hi there &nbsp;👋&nbsp; </h1>
 <h2> I'm Lydia Riverwood (reinholz36) and this is my GitHub Portfolio!</h2>
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinholz36&show_icons=true&theme=nord)](https://github.com/reinholz36/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinholz36&layout=compact&theme=nord)](https://github.com/reinholz36/)
+-->
 <br />
 
 ### 🔭 I love working with:
