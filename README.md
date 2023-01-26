@@ -3,11 +3,6 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinholz36&count_private=true&theme=nord)
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinholz36&layout=compact&theme=nord)
 
 ### 🔭 I love working with:
 <p>
@@ -63,4 +58,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinholz36&count_private=true&theme=nord)
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinholz36&layout=compact&theme=nord)
 -->
